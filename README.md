@@ -33,7 +33,7 @@ Dreaming ’N Drawing (“we”, “our”, “us”) values your privacy and is
 
   To use Dreaming ’N Drawing, all users must provide the following required information:
 
-  a) Required Account Information
+  1. Required Account Information
 
     We collect and store the following information during registration and account use:
   
@@ -49,7 +49,7 @@ Dreaming ’N Drawing (“we”, “our”, “us”) values your privacy and is
 
     Providing this information is mandatory to create and maintain an account. Accounts cannot be created or used without it.
 
-  b) User-Generated Content
+  2. User-Generated Content
 
     - We collect content you choose to create or upload, including:
     
@@ -59,7 +59,7 @@ Dreaming ’N Drawing (“we”, “our”, “us”) values your privacy and is
     
     - Gallery items saved by administrators
 
-  c) Device & App Usage Data
+  3. Device & App Usage Data
 
     We may automatically collect:
 
@@ -69,7 +69,7 @@ Dreaming ’N Drawing (“we”, “our”, “us”) values your privacy and is
 
     - Crash reports and performance diagnostics
 
-  d) Push Notification Data
+  4. Push Notification Data
 
     We collect identifiers required to send notifications via OneSignal.
 
