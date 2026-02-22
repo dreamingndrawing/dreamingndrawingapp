@@ -173,7 +173,7 @@ We may update this Privacy Policy periodically.
 
 If you have questions or concerns about this Privacy Policy, please contact us:
 
-- **Email:** [dreamingndrawing@gmail.com](mailto:dreamingndrawing@gmail.com)
+- **Email:** [aretha_palal@icloud.com](mailto:aretha_palal@icloud.com)
 - **Website URL:** [dreamingndrawing.com.au](https://dreamingndrawing.com.au)
 
 ---
