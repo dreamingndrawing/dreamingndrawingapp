@@ -1,5 +1,5 @@
-# Dreaming N' Drawing
-An application dedicated to making interactions with Dreaming N' Drawing fast and easy
+# Dreaming 'N Drawing
+An application dedicated to making interactions with Dreaming 'N Drawing fast and easy
 
 # Terms & Conditions
 
