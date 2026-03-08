@@ -178,3 +178,46 @@ If you have questions or concerns about this Privacy Policy, please contact us:
 
 ---
 
+# Account Deletion
+
+Users can delete their **Dreaming 'N Drawing** account directly inside the mobile application.
+
+## How to delete your account
+
+1. Open the **Dreaming 'N Drawing** app  
+2. Navigate to **Profile**  
+3. Tap **Delete account**  
+4. Confirm the deletion  
+
+Once confirmed, your account will be permanently deleted.
+
+---
+
+## What happens when your account is deleted
+
+When an account is deleted, the following actions occur:
+
+- Your authentication account is removed from **Firebase Authentication**
+- Personal information such as **name, email, phone number, address, and children details** is deleted or anonymised
+- Uploaded media associated with your account is deleted
+- Push notification tokens are removed
+
+Some minimal records may be retained for **security, fraud prevention, or legal compliance purposes**.
+
+---
+
+## Request deletion if you cannot access the app
+
+If you cannot access the application and need assistance deleting your account, please contact:
+
+**aretha_palal@icloud.com**
+
+We will process deletion requests within a reasonable timeframe.
+
+---
+
+## App Information
+
+App name: **Dreaming 'N Drawing**
+
+This page explains how users can delete their account and associated data in compliance with **Google Play's User Data and Data Safety policies**.
