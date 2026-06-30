@@ -1,56 +1,67 @@
 # Dreaming 'N Drawing
-An application dedicated to making interactions with Dreaming 'N Drawing fast and easy
+
+An application dedicated to making interactions with Dreaming 'N Drawing fast and easy.
 
 # Terms & Conditions
 
-By creating an account or signing in to Dreaming ’N Drawing, you agree to the following:
+By creating an account or signing in to Dreaming 'N Drawing, you agree to the following:
 
 - You confirm that all information you provide is accurate and belongs to you.
-
 - You are responsible for maintaining the confidentiality of your account and login credentials.
-
 - You agree to use the app only for lawful purposes and in a respectful manner.
-
 - You must not misuse the app, attempt unauthorized access, or disrupt the service.
-
 - We reserve the right to suspend or terminate accounts that violate these terms or misuse the platform.
-
 - The app is provided “as is” without warranties of any kind.
-
 - We may update these Terms from time to time. Continued use of the app means you accept the updated Terms.
 
 By continuing, you also acknowledge that you have read and agree to our Privacy Policy.
 
-# Privacy Policy  
-**Dreaming ’N Drawing**
+# Privacy Policy
 
-**Effective Date:** _[January 2, 2026]_
+**Dreaming 'N Drawing**
 
-Dreaming ’N Drawing ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your personal information when you use the Dreaming ’N Drawing mobile application.
+**Effective Date:** June 30, 2026
+
+Dreaming 'N Drawing ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your personal information when you use the Dreaming 'N Drawing mobile application.
 
 ---
 
 ## 1. Information We Collect
 
-To use Dreaming ’N Drawing, **all users are required to provide personal information** during registration and account use.
+Dreaming 'N Drawing collects the information needed to create accounts, communicate with users, provide app features, and manage services safely.
 
-### a) Required Account Information
+### a) Account Information
 
-The following information is **mandatory** to create and maintain an account:
+To create and maintain an account, users are required to provide:
 
-- **Full name**
+- **First name and last name**
 - **Email address**
 - **Phone number**
+- **Emergency contact phone number**
 - **Physical address**
-- **Unique user ID** associated with your account
+- **Unique user ID** associated with the account
 
-Accounts cannot be created or used without providing this information.
+Accounts cannot be created or used without this required account information.
 
 ---
 
-### b) User-Generated Content
+### b) Child Information
 
-We collect and store content you choose to create or upload, including:
+Users may choose to add child information to their account. Adding a child profile is optional, but if a child profile is created, the following information may be collected:
+
+- **Child first name and last name**
+- **School**
+- **Date of birth**
+- **Relevant medical conditions**
+- **Additional comments provided by the parent or guardian**
+
+This information is used only for communication, identification, safety, and service-related purposes within Dreaming 'N Drawing.
+
+---
+
+### c) User-Generated Content
+
+We collect and store content that users choose to create, send, or upload through the app, including:
 
 - Messages and conversations
 - Images, videos, audio files, and documents
@@ -58,9 +69,9 @@ We collect and store content you choose to create or upload, including:
 
 ---
 
-### c) Device & App Usage Information
+### d) Device, App Usage, and Technical Information
 
-We may automatically collect technical information, including:
+We may automatically collect technical information needed to operate, secure, and improve the app, including:
 
 - App usage and interaction data
 - Device identifiers required for authentication and notifications
@@ -68,7 +79,7 @@ We may automatically collect technical information, including:
 
 ---
 
-### d) Push Notification Data
+### e) Push Notification Data
 
 We collect identifiers necessary to send push notifications through **OneSignal**.
 
@@ -79,7 +90,7 @@ We collect identifiers necessary to send push notifications through **OneSignal*
 Your information is used strictly to:
 
 - Create, verify, and manage user accounts
-- Enable messaging, gallery, and communication features
+- Enable messaging, gallery, calendar, and communication features
 - Accurately identify users for administrative and safety purposes
 - Send notifications, reminders, and important updates
 - Maintain platform security and prevent misuse
@@ -101,10 +112,10 @@ We process personal data based on:
 
 ## 4. Third-Party Services
 
-Dreaming ’N Drawing uses trusted third-party services to operate the app:
+Dreaming 'N Drawing uses trusted third-party services to operate the app:
 
-- **Firebase** – authentication, database storage, analytics
-- **Cloudinary** – secure media storage and delivery
+- **Firebase** – authentication, database storage, and app services
+- **Cloudinary** – media storage and delivery
 - **OneSignal** – push notification delivery
 
 These services process data only as necessary to perform their functions and follow their own privacy and security policies.
@@ -144,7 +155,9 @@ Requests can be made through the app or by contacting us.
 
 ## 8. Children’s Privacy
 
-Dreaming ’N Drawing is not intended for children under the age of 13 unless used with parental or guardian supervision. We do not knowingly collect personal data from children without appropriate consent.
+Dreaming 'N Drawing is primarily intended for use by parents, guardians, and authorised administrators. The app may store child-related information provided by a parent or guardian for communication and service purposes.
+
+We do not knowingly allow children under 13 to create their own accounts without appropriate parental or guardian consent.
 
 ---
 
@@ -154,6 +167,7 @@ We may send push notifications related to:
 
 - Messages and communication
 - Gallery updates
+- Calendar events and reminders
 - Important account or system information
 
 You can disable notifications at any time through your device settings.
@@ -184,10 +198,10 @@ Users can delete their **Dreaming 'N Drawing** account directly inside the mobil
 
 ## How to delete your account
 
-1. Open the **Dreaming 'N Drawing** app  
-2. Navigate to **Profile**  
-3. Tap **Delete account**  
-4. Confirm the deletion  
+1. Open the **Dreaming 'N Drawing** app
+2. Navigate to **Profile**
+3. Tap **Delete account**
+4. Confirm the deletion
 
 Once confirmed, your account will be permanently deleted.
 
@@ -198,11 +212,11 @@ Once confirmed, your account will be permanently deleted.
 When an account is deleted, the following actions occur:
 
 - Your authentication account is removed from **Firebase Authentication**
-- Personal information such as **name, email, phone number, address, and children details** is deleted or anonymised
+- Personal information and child records associated with your account are deleted
 - Uploaded media associated with your account is deleted
-- Push notification tokens are removed
+- Push notification identifiers associated with your account are removed or no longer used where reasonably possible
 
-Some minimal records may be retained for **security, fraud prevention, or legal compliance purposes**.
+Some minimal records may be retained for **security, fraud prevention, operational, or legal compliance purposes**.
 
 ---
 
@@ -210,7 +224,7 @@ Some minimal records may be retained for **security, fraud prevention, or legal 
 
 If you cannot access the application and need assistance deleting your account, please contact:
 
-**aretha_palal@icloud.com**
+[aretha_palal@icloud.com](mailto:aretha_palal@icloud.com)
 
 We will process deletion requests within a reasonable timeframe.
 
